@@ -2,5 +2,4 @@
 <ul>
     <li>Migration of Continuous Query</li>
     <li>Add column to record volatility</li>
-    <li></li> 
 </ul>
