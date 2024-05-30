@@ -40,3 +40,4 @@ close =
         |> set(key: "_measurement", value: "close")
         |> map(fn: (r) => ({r with _time: now()}))
         |> to(bucket: "candles_30m")
+        
