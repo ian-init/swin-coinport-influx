@@ -1,4 +1,4 @@
-<h3>Methodology</h3>'
+<h3>Methodology</h3>
 <ol>
     <li>Calculate interday change</li>
     <li>Compute daily volatility</li>
