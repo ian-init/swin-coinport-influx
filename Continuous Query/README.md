@@ -1,5 +1,5 @@
 <h3>Trades data</h3>
-<p>InfluxDB gets the trades data from exchanges using Peatio. Records are stored in InfluxDB bucket.</p>
+<p>InfluxDB gets the trades data from exchanges using Peatio.</p>
 
 <p>The schema:</p>
 <ul>
