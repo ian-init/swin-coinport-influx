@@ -1,71 +1,75 @@
-aaveaud
-aaveusdt
-apeaud
-apeusdt
-axsaud
-axsusdt
-bataud
-batusdt
-bchaud
-bicoaud
-bicousdt
-bnbaud
-bnbusdt
-bntaud
-bntusdt
-bsvaud
-bsvusdt
-btcaud
-btcusdt
-chraud
-chrusdt
-compaud
-daiaud
-daiusdt
-dashaud
-dashusdt
-dmfaud
-dmfusdt
-dogeaud
-dogeusdt
-dotaud
-eosaud
-eosusdt
-etcaud
-ethaud
-ethusdt
-ftmaud
-ftmusdt
-htaud
-htusdt
-leoaud
-leousdt
-linkaud
-linkusdt
-looksaud
-looksusdt
-lrcaud
-lrcusdt
-ltcaud
-ltcusdt
-mkraud
-mkrusdt
-nahaud
-nahusdt
-powraud
-powrusdt
-shibaud
-shibusdt
-shraud
-shrusdt
-solaud
-solusdt
-sxpaud
-sxpusdt
-trstaud
-trstusdt
-uniaud
-uniusdt
-usdtaud
-yfiaud
-zrxaud
+<p>* List generated from the exexuted tardes from Influx v1.7 trades bucket for the propose to demostrate the migration of SQL to Flux. The list does not represent the full cryto code in exchanges.</p>
+
+<ul>
+    <li>aaveaud</li>
+    <li>aaveusdt</li>
+    <li>apeaud</li>
+    <li>apeusdt</li>
+    <li>axsaud</li>
+    <li>axsusdt</li>
+    <li>bataud</li>
+    <li>batusdt</li>
+    <li>bchaud</li>
+    <li>bicoaud</li>
+    <li>bicousdt</li>
+    <li>bnbaud</li>
+    <li>bnbusdt</li>
+    <li>bntaud</li>
+    <li>bntusdt</li>
+    <li>bsvaud</li>
+    <li>bsvusdt</li>
+    <li>btcaud</li>
+    <li>btcusdt</li>
+    <li>chraud</li>
+    <li>chrusdt</li>
+    <li>compaud</li>
+    <li>daiaud</li>
+    <li>daiusdt</li>
+    <li>dashaud</li>
+    <li>dashusdt</li>
+    <li>dmfaud</li>
+    <li>dmfusdt</li>
+    <li>dogeaud</li>
+    <li>dogeusdt</li>
+    <li>dotaud</li>
+    <li>eosaud</li>
+    <li>eosusdt</li>
+    <li>etcaud</li>
+    <li>ethaud</li>
+    <li>ethusdt</li>
+    <li>ftmaud</li>
+    <li>ftmusdt</li>
+    <li>htaud</li>
+    <li>htusdt</li>
+    <li>leoaud</li>
+    <li>leousdt</li>
+    <li>linkaud</li>
+    <li>linkusdt</li>
+    <li>looksaud</li>
+    <li>looksusdt</li>
+    <li>lrcaud</li>
+    <li>lrcusdt</li>
+    <li>ltcaud</li>
+    <li>ltcusdt</li>
+    <li>mkraud</li>
+    <li>mkrusdt</li>
+    <li>nahaud</li>
+    <li>nahusdt</li>
+    <li>powraud</li>
+    <li>powrusdt</li>
+    <li>shibaud</li>
+    <li>shibusdt</li>
+    <li>shraud</li>
+    <li>shrusdt</li>
+    <li>solaud</li>
+    <li>solusdt</li>
+    <li>sxpaud</li>
+    <li>sxpusdt</li>
+    <li>trstaud</li>
+    <li>trstusdt</li>
+    <li>uniaud</li>
+    <li>uniusdt</li>
+    <li>usdtaud</li>
+    <li>yfiaud</li>
+    <li>zrxaud</li>
+</ul>
