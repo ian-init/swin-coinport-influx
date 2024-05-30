@@ -1,4 +1,4 @@
-// this is a snippet use aaveaud to demostrate candles building. Refer to StockCodes.md for others crypto code and trades_to_cq_1m.flux for full code
+// this is a snippet using aaveaud to demostrate candles building. Refer to StockCodes.md for others crypto code and trades_to_cq_1m.flux for full code
 
 option task = {
     name: "cq_6h",
