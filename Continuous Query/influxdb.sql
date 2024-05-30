@@ -1,6 +1,3 @@
-CREATE DATABASE peatio_development;
-CREATE DATABASE peatio_test;
-
 CREATE CONTINUOUS QUERY "trade_to_cq_1m" ON peatio_development
 RESAMPLE EVERY 1s FOR 3m
 BEGIN
