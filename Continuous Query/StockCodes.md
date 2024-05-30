@@ -1,4 +1,4 @@
-<p>* List generated from the exexuted tardes captured in Influx v1.7 trades bucket, for the propose to demostrate the migration of SQL to Flux. The list does not represent the full cryto code in exchanges.</p>
+<p>* List generated from the exexuted tardes captured in Influx v1.7 bucket. The list does not represent the full cryto code in exchanges.</p>
 
 <ul>
     <li>aaveaud</li>
